@@ -25,7 +25,7 @@ TARGET_2ND_CPU_VARIANT := cortex-a53
 TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_CONFIG := lineage_j7xelte_defconfig
 TARGET_KERNEL_HEADER_ARCH := arm64
-TARGET_KERNEL_SOURCE := kernel/samsung/universal7870
+TARGET_KERNEL_SOURCE := kernel/samsung/exynos7870
 
 # Image
 BOARD_CUSTOM_BOOTIMG_MK := device/samsung/j7xelte/mkbootimg.mk
